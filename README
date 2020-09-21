@@ -1,0 +1,7 @@
+Using Unity version 2019.4.1f1
+Using Vuforia version 9
+Instructions:
+Download the zip file and unzip it.
+Add a new project to Unity and select the unzipped folder.
+Click the play button at the top of the Unity application. Make sure you have a webcam hooked up.
+Place the various target images in front of the camera to view the widgets.
